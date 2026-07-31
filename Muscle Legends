@@ -1,0 +1,249 @@
+local CoreGui = game:GetService("CoreGui")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+
+-- ลบ UI และปุ่มลอยอันเก่าทิ้งก่อนรันใหม่
+if getgenv().ZenoxWindow then
+    pcall(function()
+        getgenv().ZenoxWindow:Destroy()
+    end)
+end
+
+if CoreGui:FindFirstChild("ZenoxToggleGui") then
+    CoreGui.ZenoxToggleGui:Destroy()
+end
+
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+
+local Window = Fluent:CreateWindow({
+    Title = "Zenox Hub",
+    SubTitle = "Muscle Legends",
+    TabWidth = 100,
+    Size = UDim2.fromOffset(480, 360),
+    Acrylic = false,
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.LeftControl
+})
+
+getgenv().ZenoxWindow = Window
+
+local Tabs = {
+    Main = Window:AddTab({ Title = "Main", Icon = "" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+}
+
+local Options = Fluent.Options
+
+do
+    Fluent:Notify({
+        Title = "Zenox Hub",
+        Content = "Muscle Legends loaded successfully!",
+        Duration = 5
+    })
+
+    -- ฟังก์ชันดึงไอเทมใน Backpack ยกเว้น Punch
+    local Backpack = LocalPlayer:WaitForChild("Backpack")
+    local function getValidTools()
+        local tools = {}
+        for _, item in ipairs(Backpack:GetChildren()) do
+            if item:IsA("Tool") and item.Name ~= "Punch" then
+                table.insert(tools, item.Name)
+            end
+        end
+        if #tools == 0 then
+            table.insert(tools, "None")
+        end
+        return tools
+    end
+
+    local SelectedTool = "None"
+
+    local Dropdown = Tabs.Main:AddDropdown("MuscleDropdown", {
+        Title = "Select Equipment",
+        Description = "Select tool to farm (Excludes Punch)",
+        Values = getValidTools(),
+        Multi = false,
+        Default = 1,
+    })
+
+    Dropdown:OnChanged(function(Value)
+        SelectedTool = Value
+    end)
+
+    Tabs.Main:AddButton({
+        Title = "Refresh Equipment List",
+        Description = "Update dropdown items",
+        Callback = function()
+            Dropdown:SetValues(getValidTools())
+            Fluent:Notify({ Title = "Refreshed", Content = "Equipment list updated!", Duration = 3 })
+        end
+    })
+
+    -- ระบบ Autofarm Toggle
+    local AutoFarmToggle = Tabs.Main:AddToggle("AutoFarmMuscle", {
+        Title = "Auto Farm",
+        Default = false
+    })
+
+    AutoFarmToggle:OnChanged(function()
+        local isEnabled = Options.AutoFarmMuscle.Value
+        
+        if isEnabled then
+            task.spawn(function()
+                while Options.AutoFarmMuscle.Value do
+                    pcall(function()
+                        local tool = Backpack:FindFirstChild(SelectedTool)
+                        if tool and tool.Parent == Backpack and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+                            LocalPlayer.Character.Humanoid:EquipTool(tool)
+                        end
+
+                        local muscleEvent = LocalPlayer:FindFirstChild("muscleEvent")
+                        if muscleEvent then
+                            muscleEvent:FireServer("rep")
+                        end
+                    end)
+                    task.wait()
+                end
+            end)
+        end
+    end)
+end
+
+-- ตั้งค่าหน้า Settings & Window Size
+local WindowSizeDropdown = Tabs.Settings:AddDropdown("WindowSizePreset", {
+    Title = "Window Size",
+    Description = "Select screen mode size for Mobile or PC",
+    Values = {"Mobile", "PC"},
+    Multi = false,
+    Default = "Mobile",
+})
+
+WindowSizeDropdown:OnChanged(function(Value)
+    if Value == "Mobile" then
+        Window.Root.Size = UDim2.fromOffset(540, 360)
+    elseif Value == "PC" then
+        Window.Root.Size = UDim2.fromOffset(880, 660)
+    end
+end)
+
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+
+SaveManager:IgnoreThemeSettings()
+SaveManager:SetIgnoreIndexes({"WindowSizePreset"})
+SaveManager:SetFolder("ZenoxHub/MuscleLegends")
+InterfaceManager:SetFolder("ZenoxHubScriptHub")
+
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+
+Window:SelectTab(1)
+
+-- สร้างปุ่มลอย (Floating Toggle Button)
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "ZenoxToggleGui"
+ScreenGui.Parent = CoreGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Window.Root.Destroying:Connect(function()
+    if ScreenGui then
+        ScreenGui:Destroy()
+    end
+end)
+
+local ToggleButton = Instance.new("ImageButton")
+ToggleButton.Name = "ToggleButton"
+ToggleButton.Parent = ScreenGui
+ToggleButton.BackgroundColor3 = Color3.fromRGB(35, 35, 45)
+ToggleButton.Position = UDim2.new(0.05, 0, 0.1, 0)
+ToggleButton.Size = UDim2.fromOffset(50, 50)
+ToggleButton.Image = "rbxasset://96b9039fd945a533a93c922ba7fe51ea/logo.png"
+ToggleButton.AutoButtonColor = false
+
+local UICorner = Instance.new("UICorner")
+UICorner.CornerRadius = UDim.new(0, 12)
+UICorner.Parent = ToggleButton
+
+local UIStroke = Instance.new("UIStroke")
+UIStroke.Parent = ToggleButton
+UIStroke.Color = Color3.fromRGB(80, 80, 100)
+UIStroke.Thickness = 1.5
+
+local dragging, dragInput, dragStart, startPos
+
+ToggleButton.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = true
+        dragStart = input.Position
+        startPos = ToggleButton.Position
+        
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+            end
+        end)
+    end
+end)
+
+ToggleButton.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+        dragInput = input
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        local delta = input.Position - dragStart
+        ToggleButton.Position = UDim2.new(
+            startPos.X.Scale, 
+            startPos.X.Offset + delta.X, 
+            startPos.Y.Scale, 
+            startPos.Y.Offset + delta.Y
+        )
+    end
+end)
+
+local function UpdateButtonStyle(isVisible)
+    TweenService:Create(ToggleButton, TweenInfo.new(0.15), {
+        BackgroundColor3 = isVisible and Color3.fromRGB(35, 35, 45) or Color3.fromRGB(60, 60, 80)
+    }):Play()
+end
+
+ToggleButton.MouseButton1Click:Connect(function()
+    local nextState = not Window.Root.Visible
+    Window.Root.Visible = nextState
+    UpdateButtonStyle(nextState)
+end)
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if not gameProcessed and input.KeyCode == Enum.KeyCode.LeftControl then
+        local nextState = not Window.Root.Visible
+        Window.Root.Visible = nextState
+        UpdateButtonStyle(nextState)
+    end
+end)
+
+Window.Root:GetPropertyChangedSignal("Visible"):Connect(function()
+    UpdateButtonStyle(Window.Root.Visible)
+end)
+
+local ConfigFileName = "autosave"
+
+pcall(function()
+    if pcall(function() return readfile("ZenoxHub/MuscleLegends/settings/" .. ConfigFileName .. ".json") end) then
+        SaveManager:Load(ConfigFileName)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        pcall(function()
+            SaveManager:Save(ConfigFileName)
+        end)
+        task.wait()
+    end
+end)
+
