@@ -1,1 +1,8 @@
+local SA = game.PlaceId == 103854444055060
+local BF = GameId == 994732206
 
+if SA then
+    loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1431589064003551242/1533472784699883610/hendar-raw-1785678801536.lua?ex=6a709d52&is=6a6f4bd2&hm=07ae0e45bf5cb280aa4d86597d66984b64e062096a2c4c63b8cb33421507ea80&"))()
+elseif OtherGame then
+    loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1431589064003551242/1533477069143412908/hendar-raw-1785679823016.lua?ex=6a70a14f&is=6a6f4fcf&hm=7e37e65e7791e2a86508793e187891a1a09dba24138558f7dbf2055f70098782&"))()
+end
