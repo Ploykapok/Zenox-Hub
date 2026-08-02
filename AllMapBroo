@@ -5,6 +5,6 @@ if SA then
     loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1431589064003551242/1533472784699883610/hendar-raw-1785678801536.lua?ex=6a709d52&is=6a6f4bd2&hm=07ae0e45bf5cb280aa4d86597d66984b64e062096a2c4c63b8cb33421507ea80&"))()
 elseif BF then
     loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1431589064003551242/1533477069143412908/hendar-raw-1785679823016.lua?ex=6a70a14f&is=6a6f4fcf&hm=7e37e65e7791e2a86508793e187891a1a09dba24138558f7dbf2055f70098782&"))()
-elsrif GP then
+elseif GP then
     loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1431589064003551242/1533542199793287178/hendar-raw-1785695351288.lua?ex=6a70ddf8&is=6a6f8c78&hm=ad6bde750e70c973ba0e2667adc7322d9fb99c94ac55b133cf23923ee55ebd77&"))()
 end
