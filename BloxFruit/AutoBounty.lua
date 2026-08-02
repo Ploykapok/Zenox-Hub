@@ -1,4 +1,12 @@
-false Configs = getgenv().configs
+local Configs = getgenv().configs or {
+    ["SkipPlayerTime"] = 10,
+    ["HopMode"] = true,
+    ["SafeModeHP"] = 40,
+    ["Team"] = "Pirate",
+    ["TPMethod"] = "Tween",
+    ["DistancePlayer"] = 15
+}
+
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local TweenService = game:GetService("TweenService")
@@ -9,16 +17,6 @@ local Workspace = game:GetService("Workspace")
 local HttpService = game:GetService("HttpService")
 
 task.wait(4)
-
-local Configs = getgenv().configs or {
-    ["SkipPlayerTime"] = 10,
-    ["HopMode"] = true,
-    ["SafeModeHP"] = 40,
-    ["Team"] = "Pirate",
-    ["TPMethod"] = "Tween",
-    ["DistancePlayer"] = 15
-}
-
 
 local currentTarget = nil
 local currentTween = nil
