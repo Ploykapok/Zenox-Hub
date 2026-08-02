@@ -1,6 +1,7 @@
 local SA = game.PlaceId == 103854444055060
-local BF = GameId == 994732206
+local BF = game.GameId == 994732206
 local GP = game.PlaceId == 394506555
+
 if SA then
     loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1431589064003551242/1533472784699883610/hendar-raw-1785678801536.lua?ex=6a709d52&is=6a6f4bd2&hm=07ae0e45bf5cb280aa4d86597d66984b64e062096a2c4c63b8cb33421507ea80&"))()
 elseif BF then
