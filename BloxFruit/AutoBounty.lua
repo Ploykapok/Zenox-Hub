@@ -1,3 +1,426 @@
--- Made By Hendar
--- create here: https://lua-obfuscate-maker.lovable.app/
-return(function(...)local V={".>(8.!","My4sqXyWrz4sdp7mq",".caqh2D[1ehT),","MVRi=",".>Rc4j`iD*]_[2OK>)";"M71hk5CNKAT+wtEwUCfKdCM==";"MAIZSWYac23NDyBY0pIw=",".;\">.:D[e","Mln0STbh9FAi=";"MQW3aReUcRf4=","MFi6EJU5H3fhWvt6=";"M1PzNwObdrz6=";"MyIzbWPYGPNzq8LR7Pcx=";".Tu1MQhs?C";"MUasuCEB5no==";".78(0lLtl2e+9KYG6Z";"McUYAzJwY";"Mj6o1ibeok8i=","MMiE/bPQY","MvpFpZSiVBo==",".\"Q]:Kr\\!*C";".5RdX*(L!","Mrjlz3NHecoXF",".*R[Ae\\9;e4";".g1T*hc?rE",".TZ;%DVd","MyetCefSjtx==";"MvitceQwn0MyP";"MBM==","MD9xTRE4=";".uGaIf",".,(4:4JU3:eG:#a","MKJOHRdegMIfTE0T=";"MLMSyJo==",".P>PsbnjK",".V^\'b*t/IH#\'k[2rU(RB";"MkPKVlulbO6==",".]m-LFcs&\'c`S(1N","MIMhSwEtrbxn7";"MCPHQXM==";".idQjIOs\")iYCX\'=_W5","MWDEdZLmmMZ43p20Q2Qo=";"MMSFYbnCY";".A>@VQ,m?-q",".,?o<:",".s8-l-UIqs>7#\\dqb,u3";"MkLXhQZ1DM8gH";".&Cr*p;<`#q",".r\"R\'Y84d\\om?GYTsH[^;","MzdFQVBmer2s8CDs6WL8=",".R**9Bi,m7a";"MFOLkkHlCMCn1kKw=";".L^;:)";"MHMqH","M7Lo7Tk+2";"Mb72LrQf7bLU/rBfd";".`84m\\,?M";".Mc]@$A>1]]P4",".&;FG!O!dZS`7ApE&\'";".gDgC>RO7","MrYWey4CYbLs4EM==","MNVoikCtPGo==";".[28","M4Bgjyx==";"MUdJpsBetPZ0tOo==","Mrq/gqqtBoZ4R","MyCxUP6==";".c?rt,T)(k^,?l";"MAFb1SfKilFSCNShfix==";"M2NE4ANatriYpz+YWzo==";".=J.5UWhB5";"MnQsREnCmzDN5XD2=","MEVbbKvZY7ou=","MllQq",".X&#@@DC!Lu0n8+2NZ\'Qn";".>5?W<",".o_+JMs57sH4%";".c)a5#",".L]e.2";"MZQC3E2ECzSz9CBY6rM==";"MTm0A",".!C>Nt$U3!#FP","MHhyZVMieQHLDnPiZIwvAqHlcqBy4ot+aXInFPmFFTMrZK8RpkmDT";"MWQNFC2YLWDYAbPEbCYo=",".i(o2B_4PnQ<3L1S","MAo==";"MWrdqCo==";"MfdcShuPP5Ai=";"MWIWTPBzApNEAAPWe238=","MrIyQQ6==";"MyZ4=";"M3mA/KpK2pM==";"M07aLg+ucsBUc";"MZ1OkKYCRbnZGzzSc","MZ7ZdzDs/86==","MV4H6ADsZz7mbXIRp";".15$%b";"M3PulrOG9";"MZ4CLVL46lDE72BmH2DU=";".K4_=12!5ZodA(o";"MZNC+EYWEXdEurQabzNU=";"M5Dk/ZUf5HGu=";".i$]5R";".%@uOU","MXPNipx==";"M8NISrnzgriN+XnWW";"MyZa92QCBl2YTzyYqrSb=","MnQsTEP1=";".2;1ST^8XJG#&s4RRo6V2","MZdNfX7CeE+Wgb3fWVM==";"MjWtnTyRxGo1=";".Oe\'eRq-c+PKd%rKC*)","MWxMg";"MYsz/Xo==","MWSKrRH4=",".fR-c(","MA5oYEGuaAo==",".`Pu#/5Ea";".L!Ork-d-F","Mhl508JttfB8=";".d?$h$#jqgOW!";".c\'GrR5;KRI_o";".l_jmHZf$GIlE=r`#2V","MT7UWYVOWdAjJJXgIGCT=","MC7YjEIEaVcWiMLmaXDM=";".5?s^4=@r)O>J!P_*N(&iL<OGa;Ufo:+ANI/Z1!Nu4r1";".1bE+",".m5BZP";"MqIhH";"MZDZTEnf9VcC2XQfTbPWYrPH3zDNjbL2=","MH7JbLNIbjXM=",".c?rtZ`S(1N5FZ$";"MFtwsCEowM0f88YlH5k1Ljx==",".1CNM4,*!nWg4SZQc?=","Mfpes","MXBI=","MxXJBGgRo5VwgFwRNJJVg5qU=";".h^WQUN&l\"X!!:","McxrTPmU=";"MfKPBhncXq+iQ";"..@R:`T2=",".]oZD/]p:iV<L<f<<o","._cR]?Sc!`9ng",".>m#rYT)a,\",<>6R";".!43i1CX^V";".Lg`aX.uG_QnL@c*?Q","MzIQDMnFNE7Cbb7zT","MVdV1ZcV18DsPMSmaP46=";"ME76iyYFTPYu=";"M6iWd7fbGEM==","MEDR+ZdEr27sil4FW";"M23zLAIYgrDEAynWrWIo=";"Msd2h/JdRJS95v+r3No==";".nM&Z0&J1jU","M4b9/s8jIQNe7ybVnR9rBIx==";"M5cKBJ0u+/HSs","MEnU/82WppLWfznavPo==",".QM[JD&\'",".YK#I";"MoPNb4+I=";".>_`.$",".d/dbqbNR_\'",".AdglOU4G&0cL*";"MdtV0dbE+",".>_Ts/Tr";".0/k0^[$5";".,g`5*`BrX1l\\MFJ\'s";"MCLZi2D0mlPZ/V6==","MrIZQZ4CTlDNRCYE4PPU=","MaBwuIukMT6==","..1Vc+cs;^__Am!j";"MqRXCuC6jc9Pg";".(R7Zj";"M2BCMl2YA2IZmzPWcXM==";"MbcYiEM==";".&<\'/G1d";"MZ2Q/AnI0lIZ6V3zjW6==";".1q5K\"_LGI$D7G^I","MH4a72koo/nWT",".7ho`0,dJ",".*tS=q",".`+QZHT2eM";"MWNF7Z+EfZZZ5CyYUWSx=";"M1Vaq8YEL6j/O","MrPHLXLRY2LZ/z7Z/";"MXyCClcEGyna+ySN5",".\\\'";"MxwJCmx==","MEGGIZ/6W76==",".<XVqE",".K^sUiAPk7j#^ObL7m*.","MpZmZb4FCb4suE4E4AM==";"M","MpPV/AqwtWMo=";".Wrt]OL$C`[8*UM_*qp$","MWys8Lx==","._O79q`^ean`7P*]iR0";".0A?]6=`F;:","MwVwr27SVMM==";"MHQXKlHLumM==","MpiU6yNFgE7ZibPNk","MOXGh4tyGEM==";".5J)h3ZPId_T+/E=";".>6KmXY39M?1f#$p5\'",".itfH6&-a;K]R5Cm])",".T)(7Z5s","Mf1/3MM==";".gS(V91S9/S<#i>3T-","MehY+GO6dpx==",".BJBXF/f`Q","MrnWf","..IC0h_YUuU(E`[2&r:";".>(P\"l(^cVk";".:BCQ+Ol&;";"M2/ZCit2=",".5$\'\'h_o";".OR^48KHU\\QZd";"MuVOaMo==";"MlYff870kyI41CPND";"MzDs3z+FaX7V=",".O91]7*q:V","M+Uv9oB8X";".>5/[`1i236>Kt\'*","Muy8RqqyqbnnrymEATsYTZM==",".,s!jZgXJ2fgXT(\'<`","MOF9ax3z5bo==",".\'$Zs=T)TNoT)a#N>_[e$";".Vb=k33`T1Tpf","MZ+zYEPHFX7E9","MFkXR36==",".7H1>8","M2LkcNL4DNewkao==";"M2naMEYCuADEyyDQ2yx==",".Y^8=cO!BW]1ZPZG(!";".>d;f-,?e";"Mb4QfWQfryL6H2Lamy6==",".gIc\'J_&nOp1Xk;3cZ","Mbdz/y4z3pNmrZLNH8x==";".G*^\"/.lQ";"MPNWACSfHlBYaEY8=";"MEYu=";".t%XFG6J5","MCLZiCDZ3bLZjEDNjz+8=";".%@u4FTcoe",".t+<q:5_a%%h\'J";"Mz7oLynWbMPR1lIYZW2I=","._O`p,>J!O613AM0","MXBU=","MCzJa/jv6","MVgGb0tm614lEp2/4xgEj",".T3$#J]dPq;TSlA.c\\g";".Vec3",".7rp5)\\1G","MDmq1IUr6";"Mz+z+WYFbXSx/CPC98Y8=";"MPPCyEcfgCPs0ENWb",".6amsVih<L%Wl";"MESWQbo==";".3c9D`*5QB)oH3<!";".`+8@7";".s!M",".]\"<NJi[QMs\'=!=?(%";".caqR3caqhR>,Z=U_Wb]0.M/YS5*";".Wh9Q4#p1Oi","M83ZLWimu2IQgr3fkZ4I=";"MHNI3jS6ktjEoEM==",".4jgrc<0->V";".]1",".IF[RP\'C56","M78X5jYF5hlo=",".rf];)SI_(";"MmM==","MXPQEy7YFCDC5ZDQC",".TI;_m5s";"Mv0N6jDVEC/2=";".>G;O<(C\"",".\"t,5.[^4(H";"MCLZiMnCiV7Y5znCY";".Ti.*9c\'Dh]5\"L7uTE","MUz/W1+T=",".:R#\\s";"M3EdlLau=","MoEZZa0o=";".OH7NU>=sK4]KR&>",".5FZG$O6_","..Q.npT0LL";"MsVNQak/o/1Ddbx==";".th@gO&_O/k\\\\","MbLsjbLNi";"MAwRjYTX17Tgm";"MJbDijfpAXzEja6==";"Mw3G1/kJS7M8y";".Z:M..]R>$-\'tTUh>g";"Mhi03GM+FFE1p6f9Wt7s6","MWFdqz4Vv";".sP`M@a\"F_b";"MsVTkbt2E4QVE","..QH/U_u3Od1:T5<i5m"}for T,u in ipairs({{199790517%1323116;1025541078%4661549};{-203097-(902298+-1105396),669843110%(212596+2668097646%(17050946-(-369180)))},{2304899482%12195235,(409719+(968482+-872469))-505434}})do while u[1946120618%(7984848-(-367601))]<u[-12976-(-12978)]do V[u[(199461377413%(491992219160%2256919111-(-406676)))%9945100]],V[u[-797591+797593]],u[-546804-(-546805)],u[91614+-91612]=V[u[2049880477%(601001+10479434)]],V[u[1551821881%12931849]],u[-407314+407315]+(((24546430387-270180)-(-929222))%255871828)%11393608,u[341190-341188]-(-152821-(-152822))end end local function T(T)return V[T-(275095-(102102+154940))]end do local T=table.concat local u=V local J=table.insert local e=type local x={["+"]=-338322-(-338329),D=-881469-(-881475),W=-1029529-(-1029542);C=-548984-(48587+-597588);Y=259577407%1996749;f=829639-829638;d=585345+-585310;n=(424491009215%1791154200)%14578836,X=2075935089%9746174,r=364054650%3138402;a=849639+-849598;Q=(1364100419%5367380+226692)-1012538,p=972326-610713427%6285991,["5"]=440652+(-63701+-376917),b=-736316-(-736340),u=(((887452+-1440068)+(996988+9301))+805829124)%12798139;k=121680+(314859+(-940758-(-504229)));i=-235197-(-235249),q=-871265+871308;["3"]=-943566+943617;P=(16872409852%143028950)%1150189;h=954168943%8519365,B=-202492+202495;["/"]=200901+-200851;F=(1035582+720304319)%(8544558-617746);I=-775948+775952,c=187729-187690,M=-815647+815663,j=477574-184448588%2628158,e=677313-677298,["8"]=330982-330970,m=972103+(-18013+-954057),N=888645-888640;K=545971-545912,E=317841625%6909600;o=530268+-530236,["9"]=-365044-(-365091),L=773185890%7294206;S=-178740-(1027025+-1205820);A=2036538074%8278610;["1"]=(799818+2896047832)%13536671;O=-951755+951817;["6"]=1422051647%7368143;["0"]=(-349293+(698680+-742484))-(-393146);Z=-183505-(-183526),g=-369861-(-369903);y=1442100831%(8009127610%(31083135-(394710-537302))),w=213087+(-743745+530718);z=716322909%11192545,H=454337-454280;R=(551119+(-16102+-430340))-104632;t=-168149-(-168207),J=2253188003%11495857;U=(-475918+1492197)+-1016271;["2"]=-739668-(-739688);x=-357312-(-357312),V=487819018%9033685;["7"]=1302051713%5106085;l=-486296-(-486326);T=-639371-(482006+-1121421),G=723840-723838,v=-1014807-(-1014818),["4"]=684327+((-2171-(-932251))+-1614371),s=-791712+791773}local U=string.len local F=string.sub local j=math.floor local i=string.char local h={Q=642625-642568;K=844400+-844339;A=-1037711-(-1037757),["+"]=271385989%2359878;["#"]=-532284+((-920228+606477)-(-846077)),["1"]=700715-(((102432649207-(-480401+440187))%1600580916)%10356220-533142),o=823945276%3218536,["@"]=(-538647-323284)+(843433+18553);["%"]=706968110%(2147922071%10067207),u=-546142+1548453354%7778428;S=1008889-1008842,i=(59815385870%830940008-392085)%8435600;["6"]=(234196145184%1239149511)%6717593;J=588880+(137471-726292);["\""]=-880290+880295;["="]=2882150567%11302551;["4"]=-911056+911100,["2"]=-1040955+1041005;["5"]=821599+-821563,q=-757672-(-1004486+1457649766%7835500);R=2927907579%11526589+-153909,X=161742772%11553050,["-"]=(23759704455%848989156)%10084304,O=-543334-(-543372),["?"]=(-87673-348780)-(-436533),["\'"]=1801577532%9238859,B=329109499%1582257;T=-463585+463617,["0"]=160346854%1886433,M=(30819732476%655932468)%7700463,I=-789165-(-789243),W=592700+-592629;N=-797614+797691;m=1149187607%6529475,["&"]=735783182%(-968596+4780944),P=542946+-542871;g=-1038207+1038230,_=(-699052+-23080)+722166,["("]=608653731%2871008,b=759312237%(2851590-(-816585));L=915535509%11444193;[")"]=(-1107835-(-216330))-(-749906-141650);j=-5631-(-5632);["7"]=-180390-(-180460),C=(1005917+-1983411)+977535;Z=1927485146%13478917,l=-916338+916367,["!"]=-63635+63637;["^"]=-421059+421072,["9"]=359106-639141553%5554630,f=(257884472345%1007425343)%8327814,["*"]=197817489%1373732;r=710623260%15119643,G=-874783+885162052%9825414,[";"]=-811933-(-811941),E=(73134+-1045799)-(-972731);k=(-544611-((943219+-1715048)-(-751812)))-(-524676),h=1436803971%10409964-228863,[">"]=-483221+483258;c=((11438725065%286065961-(-765655+32252))-323591)%(1808962-558686),Y=385936126%(495022311%15902591),n=2733745459%13533393;a=((15892942209%172842512)%((-599406+2223551259)%11202767-136453)+72399986)%4072770,t=756128-756061,[":"]=22482-22408;d=133857511%(16066917-(-665264));["/"]=316977+-316898,e=162854137%7080611,p=-973106+(-380-(-973544)),s=(30773340528%(139254246-(852864+-1518902)))%10061406;["<"]=-124658-(630490-755173),[","]=335119+-335088,["]"]=3540537495%15322962-933245;["$"]=-42258+42268;["8"]=-247310+247330,["`"]=(258123-1016455)+758365;V=(395524+-940096)+544578;D=(-784843+1430921926)%(-219397+14963078),U=317270385%2910737;F=-769591+769656,["."]=(((-848342+17240633916)%2464080204)%10358178+-1183140)-(-766997),H=325425+-325342,["\\"]=467286+-467286,["["]=180040676%((230461564826%3389384519)%15764313),["3"]=2445527189%16195544}for V=750118+-750117,#u,((-113190-491160535%1932522)+-308271)-(126146+-847555)do local S=u[V]if e(S)=="string"then local e=F(S,635529+-635528,947325653%6400849)if e=="M"then S=F(S,1212700377%(882163+8819440))local e=U(S)local h={}local Z=530390305%5765112 local n=(256643+-672934)+416291 local I=1213275456%(-435305+6052321)while Z<=e do local V=F(S,Z,Z)local T=x[V]if T then n=n+T*((956034+-955970)^(((20604-20601)-I)))I=I+(667019-667018)if I==882143504%8564500 then I=((197903-961308)-35400851%2722591)+770573 local V=j(n/(388544-323008))local T=j((n%(-92104-(-157640)))/((83491385-(-266556))%(104999827%2028960)))local u=n%(1268400001%6127535)J(h,i(V,T,u))n=566900707%7984517 end elseif V=="="then J(h,i(j(n/(1184147786%9472658))))if Z>=e or F(S,Z+(171970+-171969),Z+92350687%15391781)~="="then J(h,i(j((n%(403480+-337944))/(839605+-839349))))end break end Z=Z+(-308921+308922)end u[V]=T(h)elseif e=="."then S=F(S,(892509+1727870405)%(3004221708%19556970))local e=U(S)local x={}local Z=343019251%(8953171-(3422502096%13417422-273440))while Z<=e do local V=(e-Z)+(-732862+732863)local T=V>=246247401%3373252 and 869407+-869402 or V local u=(391082-191675)+-199407 local U=T>1850921757%10761173 for V=-666241+666241,-110008-(-110012),312056317%2000361 do local J if V<T then local T=F(S,Z+V,Z+V)J=h[T]if not J then U=false break end else J=2256912170%15782602 end u=u*(-748881-(-748966))+J end if U then local V=j(u/(381307438%20251679))%(1034772+-1034516)local e=j(u/(149029+-83493))%(878186656%15681900)local U=j(u/(530679-530423))%(-355819+1291422995%10411830)local F=u%(715909945%7231411)if T==-854741-(-854746)then J(x,i(V,e,U,F))elseif T==415570+-415566 then J(x,i(V,e,U))elseif T==306937-306934 then J(x,i(V,e))elseif T==-19933-(-19935)then J(x,i(V))end end Z=Z+T end u[V]=T(x)end end end end return(function(F,V,U,j,e,J,x,n,i,Y,K,r,B,S,f,Z,h,I,t,u,P,M,L)t,r,K,f,S,i,Y,u,n,Z,L,P,I,M,B,h=function(V,T)local J=n(T)local e=function(e,x,U)return u(V,{e,x;U},T,J)end return e end,function(V,T)local J=n(T)local e=function(e)return u(V,{e},T,J)end return e end,function(V,T)local J=n(T)local e=function(...)return u(V,{...},T,J)end return e end,function(V,T)local J=n(T)local e=function(e,x,U,F,j,i)return u(V,{e,x,U,F;j;i},T,J)end return e end,function()Z=Z+(-520297-(-520298))h[Z]=(-36641+(-462404+218945))+280101 return Z end,{},function(V)h[V]=h[V]-627259037%6818033 if 361038-1330975605%8812017==h[V]then h[V],i[V]=nil,nil end end,function(u,e,x,U)local t2,A,N,z,Z,h,h2,L2,s,x2,I,n2,M2,E,i2,g,k,d,f2,o,P2,U2,e2,C,J2,B2,G2,p,n,S2,V2,R,v2,w,X,I2,Z2,Y2,O,r2,l,j2,c,F2,a,b,Q,y,q,a2,T2,G,m,u2,H,R2,W,D,K2,j,v while u do if 2397995180%21728436>u then if 574667+3915145>u then if u<1151315811%7610224 then if u<-230116+1349960 then if u>296441-(-109872)then if u<1489563-590349 then if u<1257877-517990 then if u<561830+-47780 then v=T(-710784+729087)j=i[x[-1035675-(-1035676)]]Z=i[x[301259-(-896318+(-655481+1853056))]]G=371607402413-160128 n=i[x[388752543%3534114]]I=n(v,G)h=Z[I]u=j[h]h=u u=not h u=u and 1832951753%9772328-601576 or(327867912-199950)%7602823 elseif 1755287420%14498843-275483>u then N=-275601+10465416596336 u=i[x[1417654904%(4742605959%21490868)]]R=T(985895-967813)h=i[x[227863512%6510386]]n=i[x[-334261-(-334264)]]v=i[x[813281+-813277]]j=T(-90200-(-108449))G=i[x[-100116-(-100121)]]a=G(R,N)I=v[a]Z=n[I]n=i[x[830748+-830742]]j=u[j]j=j(u,h,Z,n)u,j=V[T(-757384-(682235+-1457695))],{}else G,a=T((25680586784%251773587)%1758295),-693319+21310604047598 n=i[x[774617+(-1190337-(-415723))]]I=i[x[692199-692195]]R=-142897+26330237052180 v=I(G,a)a=T(2054684386%12303391)j=n[v]u=Z[j]I=i[x[-896272-(-896275)]]j=T(1615596400%(476936+8702485))v=i[x[-315902+315906]]G=v(a,R)j=u[j]n=I[G]j=j(u,n)u=(1325336-615462)+4539166 end else if 158977-(-622458)>u then v,G=T(1235208207%7440904),12811734780334-311514 Z=i[x[114674222%3822474]]n=i[x[-833073+833076]]I=n(v,G)j=Z[I]u=T(866945-848861)u=h[u]u=u(h,j)Z=u u=not Z u=u and(3787476469-(-986400+220786))%18010488-1030114 or(1893536514-639861)%19625865 elseif u<20843+833325 then w=d e2=i[x[667448-667426]]Q=e2(l)u=Q and 869479+8236895 or 5772592-527481 else a=i[x[(-1135833-(-282291))+(1318841-465297)]]k=T(34189198%8542783)R=i[x[(23183493325%(928411532-964706))%13997510-933838]]E=-727573+2734850658268 N=R(k,E)u=a[N]a=(1368749378877%5541496635)%26076340<=2474036-(-632781-(234802+-1261801))G[u]=a u=5566300-824472 end end else if(-933446+779708351)%(185115717%13589405)>u then if u<140603169%8729065 then U2=M(1772680626%18582950,{k;I,Z,x2})h2=r(3372410180%22103601,{k,I,Z})Z2=r(426641+5071975,{a,I,Z})F2=S()i[F2]=h2 j2=t(-569122+(861740-(-677251)),{k,I;Z})h2=S()i2=P(-83915+4960219,{v;I,Z;J2,b;E;a})i[h2]=j2 j2=S()i[j2]=i2 i2=S()i[i2]=Z2 Z2=S()n2=r(746175580%4869541,{a;I;Z;i2})i[Z2]=n2 n2=S()I2=B(826195902%20761981,{a,I,Z})i[n2]=I2 L2,v2,P2,f2,K2=T(-985263+1003365),32053598009030-(-398411),8054418868852-546715,T(-720382+738680),T(1667758170%14502086)Y2=t(1071190218%18709232,{n2,a;I,Z})I2=S()i[I2]=Y2 Y2=U2()B2=V[K2]r2=i[I]t2=i[Z]M2=t2(L2,P2)P2=(1015832099179393092%4791660845249287)%19321213070584 K2=r2[M2]L2=T(-45785-(-64020))Y2=B2[K2]K2=936729+-936726 B2=Y2(K2)Y2=i[Z2]B2=Y2()K2=T(2451836548%(15521025-(-503931)))B2=V[K2]r2=i[I]t2=i[Z]M2=t2(L2,P2)K2=r2[M2]Y2=B2[K2]K2=332075.5-332075 B2=Y2(K2)Y2=i[I2]B2=Y2()Y2=276914-(-220903+-513801)~=864132243%5340917 i[u2]=Y2 B2=P(1722396265%21130095,{I;Z;D,c,u2,a,Z2;I2,T2;W;y;q;O;F2})r2=i[a]M2=i[I]L2=i[Z]P2=L2(f2,v2)t2=M2[P2]K2=r2[t2]u=K2 and 14848483-102689 or-471248+1344524885%12688621 elseif 266682115%1308810>u then j=T(-681193-(-699528))h=P(1181524835%11281499,{x[-76026-(-76027)],x[-1045462+1045464];x[-603441+603444]})u=V[j]j=u(h)u,j=V[T(-386299+24426521%4804431)],{}else u=j and-313537+5967026 or 1475212-361784 end else if u<285288-(-819988)then u,R=2207187849%11727333,nil elseif(663953-(-330019))+119448>u then D,c=T(133653+-115423),751907+21241116650131 s=i[x[320729+-320727]]O=i[x[750414+-750411]]q=O(D,c)C=299871+26406622132528 z=s[q]c=T(40768-22487)H=Z[z]O=i[x[84217+-84215]]q=i[x[-979868+(303409+676462)]]D=q(c,C)s=O[D]c=13728998553533-499566 z=A[s]q=T(-622780-(-641127))m=H-z z=i[x[1235095890%(11855905-204057)]]s=i[x[(-1166273-(-313596))+852680]]D,Q=387184829639536%15487393308782,T(612908311%6964660)O=s(q,D)H=z[O]g=m[H]D,d=T(-165826-(817479+-1001368)),646638715797868%4198952739898 s=i[x[526780057%((-341032-(-149651))+3589962)]]O=i[x[888830918%12691958-393855]]q=O(D,c)C=T(-825563+2000832506%(821415+9649730))z=s[q]O=T((452187115-774033)%8060624)H=A[z]s=V[O]q=i[x[(-70683+701591953)%(9162176-(-68367))]]D=i[x[((1292829-939396)+((1694804014-(-616989))-(-540820+877730)))%14490919]]p=19822126767880-(-286425)c=D(C,d)O=q[c]q=723353-((-709300+1713324)+-280676)z=s[O]c=i[x[247172912%1872522]]d=i[x[-677856-(-677858)]]l=i[x[484980-484977]]O=515650-515650 e2=l(Q,p)C=d[e2]D=c[C]s=z(O,q,D)m=H*s s=i[x[584573+-584565]]d,C=20612764730554-(-705959),T(1148724542%(1601854481%8495461))q=i[x[516505+-516503]]D=i[x[2551626003%10206504]]c=D(C,d)O=q[c]z=s[O]c=T(-299838-(-318172))O=i[x[1307968450%15758656]]C=22090980705951-69914 q=i[x[269505+-269502]]D=q(c,C)s=O[D]H=z==s u=H and 12770073-(-624470)or-306541+8458350 else a,h,G,u=27140250438665-(-744404),T((79328+-763056)+702063),T(768545+-750395),6106305-(554474128%2473579+(117337+-226827))<7316159-(821492+-348413)i[x[1015735-1015731]]=u j=V[h]Z=t(3489551363%14915352,{x[(-115397-(-155171))+-39772];x[822109728%10961463];x[677359915%(845882+3760675)-196031];x[13938726%2787744];x[1004856+-1004849]})h=j(Z)Z=T(-267538-(-285818))h=V[Z]n=i[x[104553994%13069249]]I=i[x[-356360+356363]]v=I(G,a)Z=n[v]j=h[Z]Z=545043-545040 h=j(Z)j=6183836686%29382198<=2548229585%14878205 i[x[3668800729%16305781]]=j j,u={},V[T((5369124368%256337003)%7818264)]end end end else if u>-637333+828099 then if u>((((-390917+1487059)-430988)+-1969069)-(-1018554))-(-629587)then if(398599-210827057%3817060)+(-922380+1765456)>u then Z=S()h,u=e,T(-489762-(-507824))i[Z]=u n,j,u=2249458698%9219093,(-647023-(-790875))-(1147813639-(-677833))%9649980,3990989742%16868279 I=n n=342858-342857 v=n n=605481327%(6244736-128763)G=v<n n=j-v elseif 979312-624926>u then u=N and 1002700+11401913 or 978698+(-731687+(5590681-(-563128)))else u=771531-(-9862)>(-321758+1163876)+(98010+6490037)j={u}u=V[T(509272+-491097)]end else if(-261302-166776)-(-650667)>u then h=r(11586329-492069,{x[669170-669169];x[460692-460690],x[256833219%10701384],x[-101806-(24920-126730)];x[-985603+985608],x[(-985047+605360)-(-520321+140628)];x[182297-182290],x[607782-607774];x[(9505+(((40299-484130)-(-1415458-(-515799)))+(323855+-1541569)))+752390],x[-991389-(-342883-(224881-(-423635)))],x[(616984+377897)+-994870],x[242215388%9315976],x[127690064%6720529],x[-763013+763027],x[(-840279+533840)+306454],x[555737+(((56515385%14095973-(-931351+1460519))-501293)-(-343247))];x[-815182-(475226+(-744011+-546414))];x[831586-831568];x[-1001582+1001601],x[-615094-(-615114)],x[(1943417300%10171210+(345169-432736))-628602];x[-534590-(-534612)],x[(-589678+352815)-(-236886)];x[-454691+454715];x[-126453-(-126478)];x[1004027+-1004001]})j=T(-71317+(167815+-78163))u=V[j]j=u(h)j,u={},V[T(853247545%(351374+5743122))]elseif u<812964265%4345855 then O,z=T(812536-1242165822%6145403),1264093768%16588538~=1412524118%(131300215%6598704)i[x[-315797-(-826254-(-510444))]]=z s=V[O]O=s()i[x[-331692-(-331711)]]=O s,u=238922627%13816156<=7043485-414928,(1551899730-673067)%9666880 i[x[210083600%(934465+(-499890-(-433539)))]]=s else G,u,E,n=T(-881558-(-899838)),16446031-625445<-808157+(-338805+(747354+((-1148016-(-891230+193488))+(8105404-831048)))),6228655595902416%29105867314077,2000304792%17894172<=(3449584-150608)-(-389616)i[x[146241123%609338]]=u j,k=39785+12090975<1631480556%15830697,T(371756+(-516578-(-163056)))i[x[-148645-(-148649)]]=j u=8188300-770976 i[x[-232628+232633]]=n v=V[G]a=i[x[-739849+739850]]R=i[x[44909-44907]]N=R(k,E)G=a[N]I=v[G]a=P((2586168798-767561)%12660894,{x[1025528979%(5512550-1344181049%(4671882498%21391961-(-233689)))];x[201928119%7478819];x[477017+-477016];x[307503499%(1056143933%(((-1475529-(-409892))-(-999453+399856813%(-255699+6589164)))+13760102))];h;x[2516048577%10269586];x[-488818-(-488826)],x[(576881-580017)-(-3141)];x[1209885689%151235
+local Configs = getgenv().configs
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local TweenService = game:GetService("TweenService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local TeleportService = game:GetService("TeleportService")
+local RunService = game:GetService("RunService")
+local Workspace = game:GetService("Workspace")
+local HttpService = game:GetService("HttpService")
+
+task.wait(4)
+
+local currentTarget = nil
+local currentTween = nil
+local targetAttackStartTime = 0
+local isAttackingStarted = false 
+local isLockedTarget = false
+local isDead = false
+local isSafeHealing = false
+local lastAbilityTime = 15
+local abilityCooldown = 15
+local blacklist = {}
+local isHoping = false
+local targetFindCooldown = 0 
+local isReadyToHunt = false
+
+local teamSelected = Configs.Team
+if teamSelected == "Pirate" then teamSelected = "Pirates" end
+if teamSelected == "Marine" then teamSelected = "Marines" end
+
+local function selectTeam()
+    pcall(function()
+        local commF = ReplicatedStorage:FindFirstChild("Remotes") and ReplicatedStorage.Remotes:FindFirstChild("CommF_")
+        if commF then
+            commF:InvokeServer("SetTeam2", teamSelected)
+        end
+    end)
+end
+
+local function enablePvpAfterDeath()
+    pcall(function()
+        local commF = ReplicatedStorage:FindFirstChild("Remotes") and ReplicatedStorage.Remotes:FindFirstChild("CommF_")
+        if commF then
+            commF:InvokeServer("EnablePvp")
+        end
+    end)
+end
+
+local function activateAbility()
+    pcall(function()
+        local commE = ReplicatedStorage:FindFirstChild("Remotes") and ReplicatedStorage.Remotes:FindFirstChild("CommE")
+        if commE then
+            commE:FireServer("ActivateAbility")
+        end
+    end)
+end
+
+local function hopServer()
+    if not Configs.HopMode or isHoping then return end
+    isHoping = true
+    
+    pcall(function()
+        local currentPlaceId = game.PlaceId
+        if currentPlaceId ~= 275391518 and currentPlaceId ~= 4442272183 and currentPlaceId ~= 7449423635 then
+            currentPlaceId = 7449423635 
+        end
+        
+        local servers = HttpService:JSONDecode(game:HttpGet("https://games.roblox.com/v1/games/" .. currentPlaceId .. "/servers/Public?sortOrder=Asc&limit=100"))
+        for _, s in ipairs(servers.data) do
+            if s.playing < s.maxPlayers and s.id ~= game.JobId then
+                local success = pcall(function()
+                    TeleportService:TeleportToPlaceInstance(currentPlaceId, s.id, LocalPlayer)
+                end)
+                if success then
+                    break
+                end
+            end
+        end
+    end)
+    
+    task.wait(3)
+    isHoping = false
+end
+
+local function getBloxFruitTool()
+    local backpack = LocalPlayer:FindFirstChild("Backpack")
+    if not backpack then return nil end
+    
+    for _, tool in ipairs(backpack:GetChildren()) do
+        if tool:IsA("Tool") then
+            if tool.ToolTip and string.find(tool.ToolTip, "Blox Fruit") then
+                return tool
+            end
+            local appearance = tool:FindFirstChild("Appearance")
+            if appearance then
+                local tooltip = appearance:FindFirstChild("ToolTip")
+                if tooltip and type(tooltip.Value) == "string" and string.find(tooltip.Value, "Blox Fruit") then
+                    return tool
+                end
+            end
+        end
+    end
+    return nil
+end
+
+local function equipBloxFruit()
+    pcall(function()
+        local character = LocalPlayer.Character
+        if not character then return end
+        local humanoid = character:FindFirstChildOfClass("Humanoid")
+        if not humanoid then return end
+        
+        local currentTool = character:FindFirstChildOfClass("Tool")
+        local isHoldingFruit = false
+        if currentTool and currentTool.ToolTip and string.find(currentTool.ToolTip, "Blox Fruit") then
+            isHoldingFruit = true
+        end
+        
+        if not isHoldingFruit then
+            local fruitTool = getBloxFruitTool()
+            if fruitTool then
+                humanoid:EquipTool(fruitTool)
+            end
+        end
+    end)
+end
+
+local function isTransformed()
+    local character = LocalPlayer.Character
+    if not character then return false end
+    
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if humanoid and humanoid:GetAttribute("Transformed") then
+        return true
+    end
+    
+    for _, part in ipairs(character:GetChildren()) do
+        if part:IsA("BasePart") and (part.Size.Magnitude > 10 or character:GetAttribute("IsTransformed")) then
+            return true
+        end
+    end
+    
+    return false
+end
+
+local function checkAndTransform()
+    pcall(function()
+        if not isTransformed() then
+            local character = LocalPlayer.Character
+            if character and character:FindFirstChildOfClass("Humanoid") then
+                local humanoid = character:FindFirstChildOfClass("Humanoid")
+                if humanoid:FindFirstChild("") then
+                    humanoid[""]:InvokeServer("V")
+                end
+            end
+        end
+    end)
+end
+
+selectTeam()
+task.wait(3)
+equipBloxFruit()
+task.wait(0.5)
+checkAndTransform()
+isReadyToHunt = true
+
+local function setupCharacter(character)
+    local humanoid = character:WaitForChild("Humanoid", 10)
+    if humanoid then
+        isDead = false
+        isSafeHealing = false
+        isReadyToHunt = false
+        
+        task.delay(3, function()
+            if not isDead and LocalPlayer.Character == character then
+                equipBloxFruit()
+                task.wait(0.5)
+                checkAndTransform()
+                isReadyToHunt = true
+                targetFindCooldown = tick() + 1
+            end
+        end)
+
+        humanoid.Died:Connect(function()
+            if not isDead then
+                isDead = true
+                isSafeHealing = false
+                isReadyToHunt = false
+                if currentTween then currentTween:Cancel() currentTween = nil end
+                currentTarget = nil
+                isLockedTarget = false
+                isAttackingStarted = false
+                targetFindCooldown = tick() + 3
+                
+                task.delay(2, function()
+                    enablePvpAfterDeath()
+                end)
+            end
+        end)
+    end
+end
+
+if LocalPlayer.Character then
+    setupCharacter(LocalPlayer.Character)
+end
+LocalPlayer.CharacterAdded:Connect(setupCharacter)
+
+local function isInMapSafeZone(player)
+    local char = player.Character
+    if not char or not char:FindFirstChild("HumanoidRootPart") then return false end
+    local hrp = char.HumanoidRootPart
+    
+    local worldOrigin = Workspace:FindFirstChild("_WorldOrigin")
+    if worldOrigin then
+        local safeZones = worldOrigin:FindFirstChild("SafeZones")
+        if safeZones then
+            for _, zonePart in ipairs(safeZones:GetChildren()) do
+                if zonePart:IsA("BasePart") then
+                    local distance = (hrp.Position - zonePart.Position).Magnitude
+                    local maxDim = math.max(zonePart.Size.X, zonePart.Size.Y, zonePart.Size.Z) / 2
+                    if distance <= maxDim + 15 then
+                        return true
+                    end
+                end
+            end
+        end
+    end
+    return false
+end
+
+local function isValidTarget(player)
+    if player == LocalPlayer then return false end
+    if blacklist[player] then return false end
+    if not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then return false end
+    
+    local targetHum = player.Character:FindFirstChildOfClass("Humanoid")
+    if not targetHum or targetHum.Health <= 0 then return false end
+    
+    if isInMapSafeZone(player) then
+        return false
+    end
+    
+    return true
+end
+
+local function isLocalInSafeZone()
+    return isInMapSafeZone(LocalPlayer)
+end
+
+task.spawn(function()
+    while task.wait(1) do
+        pcall(function()
+            local Event = ReplicatedStorage.Remotes.CommE
+            Event:FireServer("Ken", true)
+        end)
+    end
+end)
+
+task.spawn(function()
+    local commE = ReplicatedStorage:FindFirstChild("Remotes") and ReplicatedStorage.Remotes:FindFirstChild("CommE")
+    if commE then
+        commE.OnClientEvent:Connect(function(...)
+            local args = {...}
+            if args[1] == "Ken" and args[2] == false then
+                pcall(function()
+                    commE:FireServer("Ken", true)
+                end)
+            end
+        end)
+    end
+end)
+
+RunService.Stepped:Connect(function()
+    pcall(function()
+        local character = LocalPlayer.Character
+        if character then
+            for _, part in ipairs(character:GetDescendants()) do
+                if part:IsA("BasePart") then
+                    part.CanCollide = false
+                end
+            end
+        end
+    end)
+end)
+
+RunService.Heartbeat:Connect(function()
+    pcall(function()
+        local character = LocalPlayer.Character
+        if not character or not character:FindFirstChild("HumanoidRootPart") or not character:FindFirstChildOfClass("Humanoid") then
+            return
+        end
+        
+        if not isReadyToHunt then return end
+        
+        local hrp = character.HumanoidRootPart
+        local humanoid = character:FindFirstChildOfClass("Humanoid")
+        
+        equipBloxFruit()
+        
+        if not isTransformed() then
+            checkAndTransform()
+        end
+        
+        local currentHPPercent = (humanoid.Health / humanoid.MaxHealth) * 100
+        
+        if currentHPPercent < Configs.SafeModeHP then
+            if not isSafeHealing then
+                isSafeHealing = true
+                if currentTween then currentTween:Cancel() currentTween = nil end
+                currentTarget = nil
+                isLockedTarget = false
+                isAttackingStarted = false
+                targetFindCooldown = tick() + 2
+                
+                local escapeCFrame = hrp.CFrame * CFrame.new(0, 1500, 0)
+                local escapeTween = TweenService:Create(hrp, TweenInfo.new(1.5, Enum.EasingStyle.Linear), {CFrame = escapeCFrame})
+                escapeTween:Play()
+            end
+        end
+        
+        if isSafeHealing then
+            if currentHPPercent >= 50 then
+                isSafeHealing = false
+                targetFindCooldown = tick() + 1 
+            else
+                hrp.Velocity = Vector3.new(0, 0, 0)
+                return
+            end
+        end
+        
+        if isLocalInSafeZone() then
+            enablePvpAfterDeath()
+        end
+        
+        if currentTarget then
+            local targetChar = currentTarget.Character
+            local targetHRP = targetChar and targetChar:FindFirstChild("HumanoidRootPart")
+            local targetHum = targetChar and targetChar:FindFirstChildOfClass("Humanoid")
+            
+            if not targetHRP or not targetHum or targetHum.Health <= 0 or isInMapSafeZone(currentTarget) or (isAttackingStarted and (tick() - targetAttackStartTime) > Configs.SkipPlayerTime) then
+                if currentTween then currentTween:Cancel() currentTween = nil end
+                blacklist[currentTarget] = true
+                currentTarget = nil
+                isAttackingStarted = false
+                isLockedTarget = false
+                targetFindCooldown = tick() + 1 
+            else
+                local distance = (hrp.Position - targetHRP.Position).Magnitude
+                local behindTargetCFrame = targetHRP.CFrame * CFrame.new(0, 5, Configs.DistancePlayer)
+                
+                if Configs.TPMethod == "Tween" then
+                    if distance > 25 then
+                        if not currentTween or currentTween.PlaybackState ~= Enum.PlaybackState.Playing then
+                            local speed = 300
+                            local timeTaken = distance / speed
+                            local tweenInfo = TweenInfo.new(timeTaken, Enum.EasingStyle.Linear)
+                            currentTween = TweenService:Create(hrp, tweenInfo, {CFrame = behindTargetCFrame})
+                            currentTween:Play()
+                        end
+                    else
+                        if currentTween then currentTween:Cancel() currentTween = nil end
+                        hrp.CFrame = behindTargetCFrame
+                        
+                        if not isAttackingStarted then
+                            isAttackingStarted = true
+                            targetAttackStartTime = tick()
+                            isLockedTarget = true
+                        end
+                        
+                        local tool = character:FindFirstChildOfClass("Tool")
+                        if tool and tool:FindFirstChild("LeftClickRemote") then
+                            tool.LeftClickRemote:FireServer(targetHRP.Position)
+                        end
+                    end
+                elseif Configs.TPMethod == "TP" then
+                    hrp.CFrame = behindTargetCFrame
+                    
+                    if not isAttackingStarted then
+                        isAttackingStarted = true
+                        targetAttackStartTime = tick()
+                        isLockedTarget = true
+                    end
+                    
+                    local tool = character:FindFirstChildOfClass("Tool")
+                    if tool and tool:FindFirstChild("LeftClickRemote") then
+                        tool.LeftClickRemote:FireServer(targetHRP.Position)
+                    end
+                end
+            end
+        end
+        
+        if not currentTarget and not isLockedTarget then
+            isAttackingStarted = false
+            
+            if tick() >= targetFindCooldown then
+                local shortestDistance = math.huge
+                for _, player in ipairs(Players:GetPlayers()) do
+                    if isValidTarget(player) then
+                        local targetChar = player.Character
+                        local targetHRP = targetChar and targetChar:FindFirstChild("HumanoidRootPart")
+                        if targetHRP then
+                            local distance = (hrp.Position - targetHRP.Position).Magnitude
+                            if distance < shortestDistance then
+                                shortestDistance = distance
+                                currentTarget = player
+                            end
+                        end
+                    end
+                end
+                
+                if currentTarget then
+                    if (tick() - lastAbilityTime) >= abilityCooldown then
+                        lastAbilityTime = tick()
+                        activateAbility()
+                    end
+                end
+            end
+        end
+        
+        if not currentTarget and not isLockedTarget and tick() >= targetFindCooldown then
+            hopServer()
+            task.wait(3)
+            return
+        end
+    end)
+end)
